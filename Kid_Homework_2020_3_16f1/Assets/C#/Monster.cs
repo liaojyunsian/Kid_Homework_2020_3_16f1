@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 怪物類別
+/// 儲存怪物資料
+/// </summary>
 public class Monster : MonoBehaviour
 {
     [Header("移動速度"), Range(0, 10)]
