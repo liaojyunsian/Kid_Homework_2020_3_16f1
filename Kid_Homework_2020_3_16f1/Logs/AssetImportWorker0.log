@@ -139,3 +139,4 @@ Received Import Request.
 Start importing Assets/C#/Monster.cs using Guid(a6006bd33116b1f4bbaa4e401d1b5a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287cddcfead9533e1fdbe6c8ca1f8a3f') in 0.060694 seconds 
   Import took 0.064824 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
